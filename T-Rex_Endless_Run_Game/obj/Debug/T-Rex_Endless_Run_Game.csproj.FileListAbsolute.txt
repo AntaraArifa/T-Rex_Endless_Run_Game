@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\bin\Debug\T-Rex_Endless_Run_Game.exe.config
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\bin\Debug\T-Rex_Endless_Run_Game.exe
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\bin\Debug\T-Rex_Endless_Run_Game.pdb
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T_Rex_Endless_Run_Game.Form1.resources
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T_Rex_Endless_Run_Game.Properties.Resources.resources
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.exe
+C:\Users\USER\source\repos\T-Rex_Endless_Run_Game\T-Rex_Endless_Run_Game\obj\Debug\T-Rex_Endless_Run_Game.pdb
